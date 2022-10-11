@@ -4,4 +4,4 @@ The dark web is the World Wide Web content that exists on darknets: overlay netw
 
 The darknets which constitute the dark web include small, friend-to-friend peer-to-peer networks, as well as large, popular networks such as Tor, Freenet, I2P, and Riffle operated by public organizations and individuals.[6] Users of the dark web refer to the regular web as Clearnet due to its unencrypted nature.[9] The Tor dark web or onionland[10] uses the traffic anonymization technique of onion routing under the network's top-level domain suffix .onion.
 
-The dark web, also known as darknet websites, are accessible only through networks such as **TOR** ("The Onion Routing" project) that are created specifically for the dark web
+The dark web, also known as darknet websites, are accessible only through **networks** such as **TOR** ("The Onion Routing" project) that are created specifically for the dark web
